@@ -20,9 +20,9 @@ Paraphrased from an article in [sunscrapers site](https://sunscrapers.com/blog/8
 
 ## Topics:
 
-The basic concepts you'll need using pandas for basic data analysis are organised in the following chapters:
+The basic concepts you'll need for NLP are organised in the following chapters:
 
-1. [Introduction to NLP](https://github.com/colintwh/nlp/blob/master/intronlp.ipynb)
+1. [Introduction to NLP](https://github.com/colintwh/nlp/blob/master/intro2nlp.ipynb)
 
 
 ## Reference source
